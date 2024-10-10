@@ -43,19 +43,22 @@ Capturar dirección de email. Desplegar mensaje si la dirección es válida o no
 
 Función que de un string, regrese la longitud de la última palabra. Las palabras tienen separación por uno o más espacios.
 
-
+![image](https://github.com/user-attachments/assets/74ae6aeb-786b-424e-bec4-a0ce3bc40fdc)
+![image](https://github.com/user-attachments/assets/99ec092e-0558-4a94-b438-89449d4ff2a3)
 
 ---------------------------------
 
 Definir una función (), que tome tres números como argumentos y devuelva el mayor de ellos.
 
-
+![image](https://github.com/user-attachments/assets/64059648-2191-459d-8a49-8ed4bd339575)
+![image](https://github.com/user-attachments/assets/0707e52b-63ab-4d22-baba-ae06b55d40ec)
 
 ---------------------------------
 
 Escribir una funcion sum() y una función multip() que sumen y multipliquen respectivamente todos los números de una lista. Por ejemplo: sum([1,2,3,4]) debería devolver 10 y multip([1,2,3,4]) debería devolver 24.
 
-
+![image](https://github.com/user-attachments/assets/abf88808-7d71-4d42-99c9-ff0849df6af1)
+![image](https://github.com/user-attachments/assets/d065f422-422f-44d7-9bce-d233c4d61ec4)
 
 ---------------------------------
 
@@ -68,3 +71,5 @@ Escribir una función que tome un carácter y devuelva True si es una vocal, de 
 
 Que saque la distancia dirigida entre dos puntos.
 
+![image](https://github.com/user-attachments/assets/6344396d-f460-467d-bfe3-5dcc7f5ba228)
+![image](https://github.com/user-attachments/assets/f43d400e-facf-4ca8-92e2-c931b0b748e5)
