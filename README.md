@@ -1,5 +1,5 @@
 # PR2_2Unidad
-# Martínez Estrada Ricardo
+# Martínez Estrada Ricardo / NO. de control: 1193
 
 Funcion que muestre el saludo Hey amigos! cada vez que se le pida.
 ![image](https://github.com/user-attachments/assets/be6b6587-131a-4911-8623-65709a48a18a)
@@ -31,4 +31,40 @@ Calcular el área de un círculo  y el volumen. Otra que calcule el volumen de u
 
 ![image](https://github.com/user-attachments/assets/5a9c468d-9d84-4567-9164-31bd7a20b753)
 ![image](https://github.com/user-attachments/assets/ee6a8c5d-685b-43ac-bc34-850ddb487d4b)
+
+---------------------------------
+
+Capturar dirección de email. Desplegar mensaje si la dirección es válida o no, siendo que una función lo revisar por tener la @ solo así es valida
+
+![image](https://github.com/user-attachments/assets/7e32bdd2-fbc5-449b-add5-f598357a006d)
+![image](https://github.com/user-attachments/assets/163d5a89-4230-4271-8089-45ea0a836611)
+
+---------------------------------
+
+Función que de un string, regrese la longitud de la última palabra. Las palabras tienen separación por uno o más espacios.
+
+
+
+---------------------------------
+
+Definir una función (), que tome tres números como argumentos y devuelva el mayor de ellos.
+
+
+
+---------------------------------
+
+Escribir una funcion sum() y una función multip() que sumen y multipliquen respectivamente todos los números de una lista. Por ejemplo: sum([1,2,3,4]) debería devolver 10 y multip([1,2,3,4]) debería devolver 24.
+
+
+
+---------------------------------
+
+Escribir una función que tome un carácter y devuelva True si es una vocal, de lo contrario devuelve False.
+
+![image](https://github.com/user-attachments/assets/4eccc733-8eb4-4665-85ac-80b8142c2a71)
+![image](https://github.com/user-attachments/assets/1bbb8530-6683-4d63-95a5-45325d00ba4a)
+
+---------------------------------
+
+Que saque la distancia dirigida entre dos puntos.
 
